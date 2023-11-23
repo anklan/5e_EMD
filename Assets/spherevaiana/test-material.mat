@@ -21,8 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: test-material
-  m_Shader: {fileID: -6465566751694194690, guid: 4ff409a34552f419ab3a51a0ec46bb6e,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 4ff409a34552f419ab3a51a0ec46bb6e, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -75,6 +74,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ea1483d84c104ec796559157903a2c3c_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 36bba9d6a84e84e09ae8abd88ffee705, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
